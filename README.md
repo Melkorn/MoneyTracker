@@ -68,5 +68,5 @@ Money Tracker is released under the MIT License.
 
 ## Bugs
 
-Using Money Tracker You might avoid beeing forced to eat bugs in a long run
+Thanks to using Money Tracker You might avoid being forced to eat bugs. Keep track of Your finances and enjoy Your Sushi and Steak
 
