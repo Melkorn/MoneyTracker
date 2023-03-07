@@ -1,6 +1,16 @@
 # Money Tracker
 Money Tracker is an application used to track personal finances. It allows the user to track their expected income and spendings as well as real income and real spendings and compare them all. Main goal of Money Tracker is to provide simply tool that helpds manage budget and offers accounting for personal use.
 
+## AUTHORS
+    Mateusz
+
+
+## Changelog	A detailed changelog, intended for programmers
+
+
+## News
+
+
 ## Features
 
 - Choose Currency
@@ -16,7 +26,7 @@ Money Tracker is an application used to track personal finances. It allows the u
 - Calculate Year
 - first simple GUI
 
-### Planned Features
+## Planned Features
 
 - Add GUI interface
 - Move positions (Income/Expense) beetwen months / years
@@ -32,7 +42,7 @@ Money Tracker is an application used to track personal finances. It allows the u
 
 
 
-#### Usage
+## Usage
 
 To use Money Tracker, simply download and install the application on your device. Once installed, you can start tracking your finances immediately. 
 
@@ -48,14 +58,15 @@ To be contiune
 
 
 
-#### Installation
+## Installation
 
 Not applicable right now
 
-##### License
+## License
 
 Money Tracker is released under the MIT License. 
 
-###### Bugs
+## Bugs
 
 Using Money Tracker You might avoid beeing forced to eat bugs in a long run
+
